@@ -4,6 +4,7 @@
 - With my experience in Big Data, I can also perform automation of processes related to data extraction and transformation. 
 - Skills: Python, SQL, VBA, Excel, Power BI.
 - 📫 I am looking for opportunities to use my skills in Big Data, Marketing, Finance and Banking, here is my LinkedIn to get in touch:
+  
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-sanchez-data-analyst/)
 
 <!---
